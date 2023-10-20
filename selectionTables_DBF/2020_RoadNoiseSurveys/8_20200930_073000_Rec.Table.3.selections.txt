@@ -1,0 +1,3 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Label
+1	Spectrogram 1	1	2003.049331926	2003.721331926	1500	6500	DBF
+2	Spectrogram 1	1	2007.127380707	2007.799380707	1500	6500	DBF

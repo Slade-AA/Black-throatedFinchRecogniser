@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Annotation
+1	Spectrogram 1	1	644.089414709	644.761414709	1800	4000	NA
+2	Spectrogram 1	1	1290.553927929	1291.225927929	1800	4000	NA
+3	Spectrogram 1	1	1291.131567681	1291.803567681	1800	4000	NA

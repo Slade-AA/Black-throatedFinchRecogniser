@@ -1,0 +1,4 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Label
+2	Spectrogram 1	1	718.80781418	719.47981418	1500	6500	
+3	Spectrogram 1	1	720.547340592	721.219340592	1500	6500	BTF
+5	Spectrogram 1	1	717.396156621	718.068156621	1500	6500	BTF
